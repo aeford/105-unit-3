@@ -14,3 +14,6 @@ I created a subset of this data, that includes data from only southern states sh
 Both the raw data and subset can be used to compare any variables of health data between states, regions, or counties. I will particularly be analyzing how the south compares to other parts of the country.
 
 The following data visualizations were created to compare uninsured adults in southern US states versus income inequality in southern US states. They were created using Datawrapper's map function.
+
+![Uninsured adults](B1oYC-southern-states-uninsured-adults)
+![Income inequality](B1oYC-southern-states-income-inequality)
