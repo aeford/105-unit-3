@@ -15,4 +15,5 @@ Both the raw data and subset can be used to compare any variables of health data
 
 The following data visualizations were created to compare uninsured adults in southern US states versus income inequality in southern US states. They were created using Datawrapper's map function.
 
-../105-unit-3/main/B1oYC-southern-states-uninsured-adults
+![B1oYC-southern-states-uninsured-adults](https://user-images.githubusercontent.com/118239397/202872340-2bd2d331-8ecb-4cb3-9cc2-703a1933a366.png)
+![B1oYC-southern-states-income-inequality](https://user-images.githubusercontent.com/118239397/202872346-c3b776d7-d822-4469-af89-d13521060473.png)
