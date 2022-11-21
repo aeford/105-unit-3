@@ -8,7 +8,7 @@ The raw data used was gathered from the [Research Hub of UNC's Davis Library](ht
 Similarly, the Python and Pandas lessons were collected from the [Research Hub of UNC's Davis Library](https://library.unc.edu/data/).
 
 ### **Why This Dataset?**
-I chose this data because it was well-compiled and represents a plethora of categories by state. The data was compiled for the purpose of using when learning Python and Pandas.
+I chose this data because it was well-compiled and represents a range of publich health data by state. The data was compiled for the purpose of using when learning Python and Pandas.
 
 I created a subset of this data, that includes data from only southern states showing the number of Uninsured adults, Preventable hospital stays, Income inequality, and Infant mortality. 
 
