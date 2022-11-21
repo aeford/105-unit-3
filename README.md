@@ -12,9 +12,9 @@ I chose this data because it was well-compiled and represents a plethora of cate
 
 I created a subset of this data, that includes data from only southern states showing the number of Uninsured adults, Preventable hospital stays, Income inequality, and Infant mortality. 
 
+### **Potential Analysis**
 Both the raw data and subset can be used to compare any variables of health data between states, regions, or counties. I will particularly be analyzing how the south compares to other parts of the country.
 
-### **Potential Analysis**
 The following data visualizations were created to compare uninsured adults in southern US states versus income inequality in southern US states. They were created using Datawrapper's map function.
 
 ![B1oYC-southern-states-uninsured-adults](https://user-images.githubusercontent.com/118239397/202872340-2bd2d331-8ecb-4cb3-9cc2-703a1933a366.png)
